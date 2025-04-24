@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "standard": "^17.1.2",
+    "vite": "^6.2.0"
+  },
+  "eslintConfig": {
+    "extends": [
+      "standard"
+    ]
+  },
+  "name": "tetris-rush-v2025",
+  "private": true,
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "type": "module",
+  "version": "0.0.0"
+}
