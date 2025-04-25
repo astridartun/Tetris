@@ -1,4 +1,4 @@
-import './style.css'
+//import './style.css'
 import { BLOCK_SIZE, BOARD_WIDTH, BOARD_HEIGHT, EVENT_MOVEMENTS } from './consts'
 
 // 1. inicializar el canvas
